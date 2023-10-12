@@ -1,1 +1,1 @@
-# my-projects
+# Repo for personal projects
