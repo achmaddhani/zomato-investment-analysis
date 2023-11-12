@@ -3,8 +3,11 @@
 
 Goals:
 Diverse Partnerships: Collaborate with varied restaurant types across different cities.
+
 Data-Driven Insights: Use Zomato's database to gauge customer preferences and restaurant features.
-Quality Focus: Prioritize higher-rated restaurants to ensure quality and appeal.
+
+Quality Focus: Prioritize higher-rated restaurants to ensure quality and appeal and follow the trends of each city.
+
 Timely Execution: Complete analysis by next week. Secure partnerships within a month.
 
 📈 Analysis Tools:
