@@ -9,5 +9,5 @@ Timely Execution: Complete analysis by next week. Secure partnerships within a m
 
 📈 Analysis Tools:
 
-Zomato API for data extraction.
+Zomato Keggle for Dataset.
 Python for data analysis.
