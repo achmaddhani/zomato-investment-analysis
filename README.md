@@ -1,4 +1,6 @@
 # Restaurant Partnership ROI Analysis (Zomato Data)
+[Tablue](https://public.tableau.com/app/profile/achmad.dhani/viz/Achmad_Dhani_Milestone1/Dashboard1)
+
 🍽️ Objective: Leverage Zomato data to partner with top-rated restaurants across cities and maximize ROI.
 
 Goals:
@@ -10,8 +12,8 @@ Quality Focus: Prioritize higher-rated restaurants to ensure quality and appeal 
 
 Timely Execution: Complete analysis by next week. Secure partnerships within a month.
 
-📈 Analysis Tools:
+📈 Tools:
 
-Zomato Keggle for Dataset.
+Analysis: Python, Numpy, Pandas, Scipy
 
-Python for data analysis.
+Visualization: Matplotlib, Seaborn
